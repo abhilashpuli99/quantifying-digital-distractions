@@ -1,4 +1,4 @@
-# Quantifying Digital Distraction  
+# Quantifying Digital Distractions  
 ### Predictive Productivity Modeling Using Multi-Model AI, Deep Learning, and Explainable AI
 
 ---
