@@ -156,10 +156,18 @@ quantifying-digital-distraction/
 │
 ├── requirements.txt
 └── README.md
+---
+```
+
+## 🤝 Contributing
+
+We welcome contributions of all kinds — whether it's fixing bugs, enhancing documentation, or proposing new models and ideas.
+
+Before getting started, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for best practices and setup instructions.
 
 ## How to Run
 
 ### install Dependencies
-
+```bash
 pip install -r requirements.txt
 
