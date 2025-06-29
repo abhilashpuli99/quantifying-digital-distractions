@@ -112,6 +112,47 @@ It allowed localized analysis for each user, revealing which features most influ
 - LIME added interpretability, enhancing ethical transparency of predictions.
 
 ---
+quantifying-digital-distraction/
+├── data/
+│   ├── raw/
+│   │   └── social_media_vs_productivity.csv
+│   └── processed/
+│       └── processed_data.csv
+│
+├── notebook/
+│   └── quantifying-digital-distraction.ipynb
+│
+├── outputs/
+│   ├── evaluation_report.txt
+│   ├── learn_error.tsv
+│   ├── model_results.csv
+│   └── predictions.csv
+│
+├── visualizations/
+│   ├── eda/
+│   │   ├── Plot1.png
+│   │   ├── Plot-2.png
+│   │   ├── ...
+│   │   └── Plot-18.png
+│   └── explainability/
+│       ├── Plot-24.png
+│       └── Screenshot 2025-06-28 233903.png
+│
+├── model/
+│   └── (trained model files go here)
+│
+├── docs/
+│   ├── dataset.md
+│   ├── eda.md
+│   ├── feature_engineering.md
+│   ├── models.md
+│   ├── deep_learning.md
+│   ├── explainability.md
+│   └── takeaways.md
+│
+├── requirements.txt
+└── README.md
+
 
 ## How to Run
 
