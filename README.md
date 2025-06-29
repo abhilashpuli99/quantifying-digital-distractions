@@ -170,4 +170,17 @@ Before getting started, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md)
 ### install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+## 🛠 Tech Stack
+
+- **Programming Language**: Python 3.10+
+- **Data Manipulation**: Pandas, NumPy
+- **Visualization**: Seaborn, Matplotlib
+- **Machine Learning**: scikit-learn, XGBoost, CatBoost, LightGBM
+- **Deep Learning**: TensorFlow (Keras)
+- **Explainable AI**: LIME (Local Interpretable Model-agnostic Explanations)
+- **Model Evaluation**: R², MAE, RMSE, Train Time Analysis
+- **Hardware**: GPU/CPU compatible (Colab/Kaggle supported)
+- **Environment**: Jupyter Notebook (Colab)  
+- **Version Control**: Git, GitHub
 
