@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project investigates the impact of digital lifestyle patterns—particularly social media usage—on actual productivity levels. Leveraging machine learning, deep learning, and explainable AI (LIME), it builds predictive models that quantify distraction and offer interpretable insights. 
+This project investigates the impact of digital lifestyle patterns—particularly social media usage—on actual productivity levels. Leveraging machine learning, deep learning, and explainable AI (LIME), it builds predictive models that quantify distraction and offer interpretable insights.
 
 The work combines behavioral analysis with modern AI techniques to enhance our understanding of digital distraction in professional and academic settings.
 
@@ -112,6 +112,10 @@ It allowed localized analysis for each user, revealing which features most influ
 - LIME added interpretability, enhancing ethical transparency of predictions.
 
 ---
+
+## Project Structure
+
+```bash
 quantifying-digital-distraction/
 ├── data/
 │   ├── raw/
@@ -153,10 +157,9 @@ quantifying-digital-distraction/
 ├── requirements.txt
 └── README.md
 
-
 ## How to Run
 
-### Dependencies
+### install Dependencies
 
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn xgboost catboost lime tensorflow
+pip install -r requirements.txt
+
