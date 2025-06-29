@@ -9,5 +9,5 @@ lightgbm==4.3.0
 tensorflow==2.16.1
 lime==0.2.0.1
 joblib==1.4.2
-## You can install all dependencies via:
+# You can install all dependencies via:
 pip install -r requirements.txt
