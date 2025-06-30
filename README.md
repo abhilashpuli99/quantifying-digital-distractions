@@ -183,4 +183,5 @@ pip install -r requirements.txt
 - **Hardware**: GPU/CPU compatible (Colab/Kaggle supported)
 - **Environment**: Jupyter Notebook (Colab)  
 - **Version Control**: Git, GitHub
+## If this sparked an insight, a ⭐ on GitHub would mean the world!
 
